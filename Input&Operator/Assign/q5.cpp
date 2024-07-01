@@ -2,12 +2,12 @@
 using namespace std;
 
 int main() {
-    char char1, char2;
+    char ch1, ch2;
     cout << "Enter the first character: ";
-    cin >> char1;
+    cin >> ch1;
     cout << "Enter the second character: ";
-    cin >> char2;
-    int ascii_diff = char1 - char2;
-    cout << "The difference between the ASCII values of " << char1 << " and " << char2 << " is " << ascii_diff << "." << endl;
+    cin >> ch2;
+    int ascii_diff = ch1 - ch2;
+    cout << "The difference of the ASCII values is : " << ascii_diff <<endl;
     return 0;
 }
