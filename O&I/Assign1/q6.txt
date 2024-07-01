@@ -1,0 +1,6 @@
+
+ _FLOAT -> variable name starts with underscore
+
+ FLOAT -> in this it can be as C++ is  case sensitie 
+
+
