@@ -7,7 +7,7 @@ int main(){
     cin>>n;
 
    for(int i = 1; i<=2*n-1;i++){
-          cout<<(char)(i+64);
+          cout<<i;
    }
    cout<<endl;
    int m = n-1;
@@ -16,7 +16,7 @@ int main(){
    for(int i = 1; i<= m ;i++){
       int a = 1;
       for(int j = 1; j<= m+1-i ;j++){
-           cout<<(char)(a+64);
+           cout<<a;
            a++;
     }
    for(int k = 1; k<= nsp ;k++){
@@ -25,7 +25,7 @@ int main(){
    }
    nsp+=2;
    for(int j = 1; j<= m+1-i ;j++){
-   cout<<(char)(a+64);
+   cout<<2*n-a;
    a++;
    }
 
