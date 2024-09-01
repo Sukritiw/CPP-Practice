@@ -1,0 +1,3 @@
+Can the same function name be used for different functions without any conflict?
+The same function name can be used for different functions without conflict through a process called function overloading.Because 
+of this process one can name functions same but with different parameters.
