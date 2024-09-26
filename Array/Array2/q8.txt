@@ -1,0 +1,16 @@
+Find the error.
+double getAverage(int arr[], int size);
+int main () {
+int balance[5] = {1000, 2, 3, 17, 50};
+double avg;
+avg = getAverage( balance[0], 5 ) ;
+cout << "Average value is: " << avg << endl;
+return 0;
+}
+
+OUTOUT->
+   error is here we are calling the particular index
+   avg = getAverage( balance[0], 5 ) ;
+
+but in here we are callling the whole array->
+   double getAverage(int arr[], int size);
