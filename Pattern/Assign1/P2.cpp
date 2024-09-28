@@ -13,3 +13,10 @@ for(int i =1;i<=n;i++){
    cout<<endl;
 }
 }
+
+
+//OUTPUT 
+// row nu. 4
+//1 2 3 
+//1 2
+//1
