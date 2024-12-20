@@ -1,0 +1,19 @@
+3 - Which of the following examples represent the worst case input for an insertion sort?
+a) array in sorted order
+b) large array
+c) normal unsorted array
+d) array sorted in reverse order
+
+
+-------------ANSWER------------
+       D) array sorted in reverse order
+
+4 -How many passes would be required during insertion sort to sort an array of 5 elements?
+a) 1
+b) Depends on order of elements
+c) 4
+d) 5
+
+
+-----------------ANSWER----------
+ c) 4
